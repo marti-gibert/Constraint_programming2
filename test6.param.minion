@@ -1,0 +1,1121 @@
+MINION 3
+# CSETopLevel_number = 0
+# CSETopLevel_eliminated_expressions = 0
+# CSETopLevel_total_size = 0
+# CSE_active_number = 0
+# CSE_active_eliminated_expressions = 0
+# CSE_active_total_size = 0
+**VARIABLES**
+BOOL eta_00001 #
+BOOL eta_00002 #
+BOOL eta_00003 #
+BOOL eta_00004 #
+BOOL eta_00005 #
+BOOL eta_00006 #
+BOOL eta_00007 #
+BOOL eta_00008 #
+BOOL eta_00009 #
+BOOL eta_00010 #
+BOOL eta_00011 #
+BOOL eta_00012 #
+BOOL eta_00013 #
+BOOL eta_00014 #
+BOOL eta_00015 #
+BOOL eta_00016 #
+BOOL eta_00017 #
+BOOL eta_00018 #
+BOOL eta_00019 #
+BOOL eta_00020 #
+BOOL eta_00021 #
+BOOL eta_00022 #
+BOOL eta_00023 #
+BOOL eta_00024 #
+BOOL eta_00025 #
+BOOL eta_00026 #
+BOOL eta_00027 #
+BOOL eta_00028 #
+BOOL eta_00029 #
+BOOL eta_00030 #
+BOOL eta_00031 #
+BOOL eta_00032 #
+BOOL eta_00033 #
+BOOL eta_00034 #
+BOOL eta_00035 #
+BOOL eta_00036 #
+BOOL eta_00037 #
+BOOL eta_00038 #
+BOOL eta_00039 #
+BOOL eta_00040 #
+BOOL eta_00041 #
+BOOL eta_00042 #
+BOOL eta_00043 #
+BOOL eta_00044 #
+BOOL eta_00045 #
+BOOL eta_00046 #
+BOOL eta_00047 #
+BOOL eta_00048 #
+BOOL eta_00049 #
+BOOL eta_00050 #
+BOOL eta_00051 #
+BOOL eta_00052 #
+BOOL eta_00053 #
+BOOL eta_00054 #
+BOOL eta_00055 #
+BOOL eta_00056 #
+BOOL eta_00057 #
+BOOL eta_00058 #
+BOOL eta_00059 #
+BOOL eta_00060 #
+BOOL eta_00061 #
+BOOL eta_00062 #
+BOOL eta_00063 #
+BOOL eta_00064 #
+BOOL eta_00065 #
+BOOL eta_00066 #
+BOOL eta_00067 #
+BOOL eta_00068 #
+BOOL eta_00069 #
+BOOL eta_00070 #
+BOOL eta_00071 #
+BOOL eta_00072 #
+BOOL eta_00073 #
+BOOL eta_00074 #
+BOOL eta_00075 #
+BOOL eta_00076 #
+BOOL eta_00077 #
+BOOL eta_00078 #
+BOOL eta_00079 #
+BOOL eta_00080 #
+BOOL eta_00081 #
+BOOL eta_00082 #
+BOOL eta_00084 #
+BOOL eta_00085 #
+BOOL eta_00086 #
+BOOL eta_00087 #
+BOOL eta_00088 #
+BOOL eta_00089 #
+BOOL eta_00090 #
+BOOL eta_00091 #
+BOOL eta_00092 #
+BOOL eta_00093 #
+BOOL eta_00094 #
+BOOL eta_00095 #
+BOOL eta_00096 #
+BOOL eta_00097 #
+BOOL eta_00098 #
+BOOL eta_00099 #
+BOOL eta_00100 #
+BOOL eta_00101 #
+BOOL eta_00102 #
+BOOL eta_00103 #
+BOOL eta_00104 #
+BOOL eta_00105 #
+BOOL eta_00106 #
+BOOL eta_00107 #
+BOOL eta_00108 #
+BOOL eta_00109 #
+BOOL eta_00110 #
+BOOL eta_00111 #
+BOOL eta_00112 #
+BOOL eta_00113 #
+BOOL eta_00114 #
+BOOL eta_00115 #
+BOOL eta_00116 #
+BOOL eta_00117 #
+BOOL eta_00118 #
+BOOL eta_00119 #
+BOOL eta_00120 #
+BOOL eta_00121 #
+BOOL eta_00122 #
+BOOL eta_00123 #
+BOOL eta_00124 #
+BOOL eta_00125 #
+BOOL eta_00126 #
+BOOL eta_00127 #
+BOOL eta_00128 #
+BOOL eta_00129 #
+BOOL eta_00130 #
+BOOL eta_00131 #
+BOOL eta_00132 #
+BOOL eta_00133 #
+BOOL eta_00134 #
+BOOL eta_00135 #
+BOOL eta_00136 #
+BOOL eta_00137 #
+BOOL eta_00138 #
+BOOL eta_00139 #
+BOOL eta_00140 #
+BOOL eta_00141 #
+BOOL eta_00142 #
+BOOL eta_00143 #
+BOOL eta_00144 #
+BOOL eta_00145 #
+BOOL eta_00146 #
+BOOL eta_00147 #
+BOOL eta_00148 #
+BOOL eta_00149 #
+BOOL eta_00150 #
+BOOL eta_00151 #
+BOOL eta_00152 #
+BOOL eta_00153 #
+BOOL eta_00154 #
+BOOL eta_00155 #
+BOOL eta_00156 #
+BOOL eta_00157 #
+BOOL eta_00158 #
+BOOL eta_00159 #
+BOOL eta_00160 #
+BOOL eta_00161 #
+BOOL eta_00162 #
+BOOL eta_00163 #
+BOOL eta_00164 #
+BOOL eta_00165 #
+BOOL eta_00166 #
+BOOL eta_00167 #
+BOOL eta_00168 #
+BOOL eta_00169 #
+BOOL eta_00170 #
+BOOL eta_00171 #
+BOOL eta_00172 #
+BOOL eta_00173 #
+BOOL eta_00174 #
+BOOL eta_00175 #
+BOOL eta_00176 #
+BOOL eta_00177 #
+BOOL eta_00178 #
+BOOL eta_00179 #
+BOOL eta_00181 #
+BOOL eta_00182 #
+BOOL eta_00183 #
+BOOL eta_00184 #
+BOOL eta_00185 #
+BOOL eta_00186 #
+BOOL eta_00187 #
+BOOL eta_00188 #
+BOOL eta_00189 #
+BOOL eta_00190 #
+BOOL eta_00191 #
+BOOL eta_00192 #
+BOOL eta_00193 #
+BOOL eta_00194 #
+BOOL eta_00195 #
+BOOL eta_00196 #
+BOOL eta_00197 #
+BOOL eta_00198 #
+BOOL eta_00199 #
+BOOL eta_00200 #
+BOOL eta_00201 #
+BOOL eta_00202 #
+BOOL eta_00203 #
+BOOL eta_00204 #
+BOOL eta_00205 #
+BOOL eta_00206 #
+BOOL eta_00207 #
+BOOL eta_00208 #
+BOOL eta_00209 #
+BOOL eta_00210 #
+BOOL eta_00211 #
+BOOL eta_00212 #
+BOOL eta_00213 #
+BOOL eta_00214 #
+BOOL eta_00215 #
+BOOL eta_00216 #
+BOOL eta_00217 #
+BOOL eta_00218 #
+BOOL eta_00219 #
+BOOL eta_00220 #
+BOOL eta_00221 #
+BOOL eta_00222 #
+BOOL eta_00223 #
+BOOL eta_00224 #
+BOOL eta_00225 #
+BOOL eta_00226 #
+BOOL eta_00227 #
+BOOL eta_00228 #
+BOOL eta_00229 #
+BOOL eta_00230 #
+BOOL eta_00231 #
+BOOL eta_00232 #
+BOOL eta_00233 #
+BOOL eta_00234 #
+BOOL eta_00235 #
+BOOL eta_00236 #
+BOOL eta_00237 #
+BOOL eta_00238 #
+BOOL eta_00239 #
+BOOL eta_00240 #
+BOOL eta_00241 #
+BOOL eta_00242 #
+BOOL eta_00243 #
+BOOL eta_00244 #
+BOOL eta_00245 #
+BOOL eta_00246 #
+BOOL eta_00247 #
+BOOL eta_00248 #
+BOOL eta_00249 #
+BOOL eta_00250 #
+BOOL rules_00001_00001 #
+BOOL rules_00001_00002 #
+BOOL rules_00001_00003 #
+BOOL rules_00001_00004 #
+BOOL rules_00001_00005 #
+BOOL rules_00001_00006 #
+BOOL rules_00001_00007 #
+DISCRETE objVar #
+{60..7507}
+**TUPLELIST**
+samples 250 7
+0 0 1 0 0 0 0 
+0 1 0 1 1 1 1 
+0 0 1 1 0 0 0 
+0 1 1 0 1 0 1 
+0 0 1 1 0 1 0 
+0 1 1 0 0 0 1 
+0 1 0 1 1 1 1 
+0 1 1 1 0 1 1 
+1 1 0 0 1 1 1 
+0 1 1 1 0 0 1 
+0 0 1 1 0 0 1 
+1 1 1 1 0 1 1 
+0 0 0 1 0 0 1 
+1 1 1 0 1 0 0 
+0 0 1 1 1 0 1 
+1 1 0 0 1 1 0 
+1 0 1 1 0 0 0 
+1 0 1 1 1 0 0 
+1 1 0 1 0 1 0 
+1 1 0 0 0 1 1 
+1 1 1 0 0 0 1 
+1 0 0 1 0 0 1 
+1 1 1 1 0 1 0 
+0 1 1 1 0 0 1 
+1 0 0 0 1 0 1 
+1 1 1 0 0 1 1 
+0 1 1 1 0 1 1 
+1 1 1 0 1 1 0 
+0 0 1 0 0 0 0 
+0 1 0 0 0 1 0 
+0 1 1 1 0 1 1 
+0 1 0 0 1 1 0 
+0 0 1 0 1 0 1 
+1 1 1 0 0 1 0 
+1 1 0 1 1 0 0 
+0 0 0 0 0 1 0 
+1 1 1 0 0 1 0 
+0 0 0 0 0 1 1 
+0 1 0 0 0 1 1 
+0 0 1 0 0 0 1 
+1 1 1 0 1 1 1 
+0 0 1 0 0 1 0 
+0 0 1 0 0 0 1 
+1 0 1 0 1 0 1 
+1 1 1 1 1 1 1 
+0 0 1 0 0 0 1 
+0 0 1 0 1 0 0 
+0 1 0 1 0 0 1 
+0 1 0 0 1 0 0 
+1 0 1 0 0 1 0 
+0 1 1 0 0 1 0 
+0 0 1 0 0 0 1 
+1 1 0 1 1 1 0 
+0 1 1 0 1 1 0 
+0 0 1 1 1 0 0 
+0 0 0 0 0 0 1 
+1 0 1 1 1 1 1 
+1 1 1 1 0 0 1 
+0 1 0 1 0 1 0 
+1 1 1 0 1 1 1 
+1 1 1 0 0 0 0 
+1 0 1 1 0 1 1 
+0 0 1 0 1 0 0 
+1 1 1 1 0 1 0 
+1 1 0 0 0 0 1 
+1 0 0 0 1 0 0 
+0 1 0 1 1 1 1 
+1 0 1 0 1 1 0 
+1 1 1 0 0 1 1 
+1 0 0 1 0 1 0 
+1 0 0 1 0 0 1 
+1 1 0 0 1 0 1 
+1 0 1 0 0 1 1 
+0 1 1 1 0 1 1 
+1 0 1 0 1 0 1 
+1 1 1 0 1 0 0 
+0 1 0 0 0 0 1 
+1 0 0 0 1 0 1 
+1 0 0 1 1 1 1 
+0 0 1 1 1 0 1 
+0 1 1 1 1 1 0 
+0 1 1 1 1 0 1 
+0 0 0 0 0 0 0 
+1 1 1 1 0 1 1 
+0 0 0 1 0 1 0 
+0 0 0 1 0 0 0 
+0 1 1 1 0 0 1 
+0 0 0 0 1 0 0 
+0 0 1 1 0 1 1 
+0 1 1 0 0 0 1 
+1 1 0 1 0 1 0 
+0 1 0 0 1 0 0 
+1 0 1 0 0 0 1 
+1 0 0 0 1 0 0 
+0 1 0 1 0 0 1 
+0 0 1 1 1 0 1 
+0 1 1 1 0 0 1 
+0 0 0 0 1 0 1 
+1 0 0 0 1 0 0 
+1 0 0 1 0 1 1 
+1 1 0 1 0 1 0 
+1 1 1 1 0 0 1 
+1 1 0 1 0 0 1 
+1 1 1 1 0 0 1 
+0 1 0 0 1 1 1 
+0 0 1 1 0 1 1 
+0 1 1 0 0 0 1 
+0 0 1 0 0 0 1 
+1 0 1 1 0 1 1 
+1 1 1 0 0 1 0 
+0 1 1 0 1 0 0 
+1 1 1 0 1 0 0 
+0 1 0 1 1 0 1 
+1 1 1 0 0 1 1 
+0 0 0 0 1 1 0 
+1 0 0 1 1 0 0 
+0 0 0 0 1 0 1 
+1 0 1 0 1 0 0 
+0 1 0 0 1 0 1 
+0 0 0 0 1 1 1 
+1 0 0 1 1 0 1 
+1 0 0 0 1 0 0 
+0 1 1 1 1 1 0 
+1 1 1 1 1 0 1 
+0 0 0 0 1 1 1 
+0 1 1 1 0 1 0 
+1 1 0 1 0 1 0 
+1 1 0 1 0 0 1 
+0 0 0 1 0 0 1 
+1 1 0 0 0 0 1 
+1 1 1 1 0 0 1 
+0 0 0 0 0 0 1 
+0 0 1 1 1 0 0 
+0 0 0 0 0 0 1 
+0 0 0 0 0 1 0 
+1 0 1 1 0 0 1 
+1 1 0 0 0 0 0 
+1 0 1 1 0 1 0 
+1 1 0 1 0 1 1 
+1 1 1 1 0 0 0 
+0 0 0 1 0 0 1 
+0 0 0 0 1 1 0 
+1 0 0 0 0 0 0 
+1 0 0 1 1 1 1 
+0 0 1 0 0 0 1 
+1 0 1 0 1 1 0 
+1 0 0 0 1 1 0 
+1 0 0 1 0 1 1 
+0 1 1 1 0 1 1 
+1 0 0 1 1 1 1 
+0 0 1 1 1 0 1 
+0 0 1 1 1 1 0 
+1 1 1 1 0 0 0 
+0 1 1 1 0 0 0 
+0 0 1 1 1 1 0 
+1 1 0 0 0 1 0 
+0 0 0 0 0 0 0 
+1 1 0 0 1 1 1 
+0 0 1 1 1 1 1 
+1 1 0 0 1 0 1 
+1 1 0 1 1 1 0 
+0 0 0 0 1 1 0 
+1 1 0 1 1 1 0 
+1 1 1 0 0 0 1 
+0 1 0 1 0 0 1 
+1 0 0 0 0 0 1 
+0 1 1 1 1 1 1 
+1 1 1 0 0 1 0 
+1 0 0 1 0 0 1 
+0 1 0 1 1 0 1 
+0 1 1 1 0 0 1 
+1 0 0 1 0 1 1 
+0 0 1 1 1 1 0 
+0 0 1 0 0 1 0 
+1 1 1 1 0 0 1 
+0 0 1 1 0 1 0 
+0 0 1 1 0 0 1 
+1 0 0 0 1 1 0 
+0 0 1 1 1 1 1 
+0 0 0 0 0 0 0 
+1 0 0 1 0 1 1 
+0 1 0 1 0 0 0 
+0 1 1 1 0 1 0 
+0 0 0 1 0 0 1 
+1 0 0 1 1 0 1 
+1 1 0 1 1 0 0 
+1 1 0 1 1 0 0 
+1 1 1 0 0 1 1 
+1 0 0 0 1 0 1 
+1 1 0 0 0 0 0 
+1 1 0 0 0 0 1 
+1 0 0 1 1 1 0 
+1 0 0 1 1 1 0 
+0 1 1 0 0 0 1 
+1 0 0 1 1 0 1 
+0 1 1 0 0 1 0 
+0 1 1 0 0 1 1 
+1 1 1 1 0 0 1 
+0 0 0 1 1 0 1 
+0 0 1 0 1 1 0 
+1 1 0 0 1 1 0 
+0 0 1 0 1 0 1 
+1 0 0 0 1 0 0 
+1 0 1 1 1 0 0 
+1 0 0 1 1 0 1 
+1 0 1 1 1 1 1 
+1 1 1 1 0 0 0 
+0 1 1 1 0 0 1 
+0 1 1 1 1 1 0 
+1 1 1 0 0 1 0 
+0 1 1 0 1 0 0 
+1 0 0 1 1 1 0 
+1 1 0 0 1 0 1 
+0 0 0 1 1 0 0 
+0 0 0 0 1 1 0 
+1 0 0 1 1 0 1 
+0 1 0 1 0 1 1 
+1 1 1 1 0 1 0 
+0 1 0 0 1 1 1 
+0 0 0 0 1 1 1 
+1 1 1 0 0 0 0 
+1 1 0 0 0 1 1 
+0 0 0 1 0 1 1 
+0 0 1 1 1 0 1 
+0 0 0 0 1 1 0 
+0 0 0 1 0 0 1 
+1 0 0 1 0 1 1 
+1 0 0 0 1 1 0 
+1 0 1 1 1 0 0 
+1 0 0 1 0 1 0 
+1 1 1 1 1 0 1 
+1 1 0 0 1 0 1 
+1 1 0 0 0 1 0 
+0 1 1 1 0 0 0 
+1 0 1 0 1 0 0 
+1 0 0 1 1 1 0 
+0 1 1 1 1 0 1 
+1 1 1 1 1 0 1 
+1 1 1 0 0 1 0 
+0 0 1 1 1 0 1 
+1 0 1 0 0 0 0 
+1 0 1 0 1 1 1 
+0 0 1 1 0 1 0 
+0 1 0 1 0 1 1 
+0 0 1 1 1 0 1 
+0 1 1 0 1 0 0 
+1 0 0 1 1 1 1 
+1 1 0 0 0 0 0 
+1 1 1 0 0 0 0 
+1 0 0 1 1 1 0 
+**VARIABLES**
+ALIAS samples[250,7]=[[0, 0, 1, 0, 0, 0, 0], [0, 1, 0, 1, 1, 1, 1], [0, 0, 1, 1, 0, 0, 0], [0, 1, 1, 0, 1, 0, 1], [0, 0, 1, 1, 0, 1, 0], [0, 1, 1, 0, 0, 0, 1], [0, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1], [1, 1, 0, 0, 1, 1, 1], [0, 1, 1, 1, 0, 0, 1], [0, 0, 1, 1, 0, 0, 1], [1, 1, 1, 1, 0, 1, 1], [0, 0, 0, 1, 0, 0, 1], [1, 1, 1, 0, 1, 0, 0], [0, 0, 1, 1, 1, 0, 1], [1, 1, 0, 0, 1, 1, 0], [1, 0, 1, 1, 0, 0, 0], [1, 0, 1, 1, 1, 0, 0], [1, 1, 0, 1, 0, 1, 0], [1, 1, 0, 0, 0, 1, 1], [1, 1, 1, 0, 0, 0, 1], [1, 0, 0, 1, 0, 0, 1], [1, 1, 1, 1, 0, 1, 0], [0, 1, 1, 1, 0, 0, 1], [1, 0, 0, 0, 1, 0, 1], [1, 1, 1, 0, 0, 1, 1], [0, 1, 1, 1, 0, 1, 1], [1, 1, 1, 0, 1, 1, 0], [0, 0, 1, 0, 0, 0, 0], [0, 1, 0, 0, 0, 1, 0], [0, 1, 1, 1, 0, 1, 1], [0, 1, 0, 0, 1, 1, 0], [0, 0, 1, 0, 1, 0, 1], [1, 1, 1, 0, 0, 1, 0], [1, 1, 0, 1, 1, 0, 0], [0, 0, 0, 0, 0, 1, 0], [1, 1, 1, 0, 0, 1, 0], [0, 0, 0, 0, 0, 1, 1], [0, 1, 0, 0, 0, 1, 1], [0, 0, 1, 0, 0, 0, 1], [1, 1, 1, 0, 1, 1, 1], [0, 0, 1, 0, 0, 1, 0], [0, 0, 1, 0, 0, 0, 1], [1, 0, 1, 0, 1, 0, 1], [1, 1, 1, 1, 1, 1, 1], [0, 0, 1, 0, 0, 0, 1], [0, 0, 1, 0, 1, 0, 0], [0, 1, 0, 1, 0, 0, 1], [0, 1, 0, 0, 1, 0, 0], [1, 0, 1, 0, 0, 1, 0], [0, 1, 1, 0, 0, 1, 0], [0, 0, 1, 0, 0, 0, 1], [1, 1, 0, 1, 1, 1, 0], [0, 1, 1, 0, 1, 1, 0], [0, 0, 1, 1, 1, 0, 0], [0, 0, 0, 0, 0, 0, 1], [1, 0, 1, 1, 1, 1, 1], [1, 1, 1, 1, 0, 0, 1], [0, 1, 0, 1, 0, 1, 0], [1, 1, 1, 0, 1, 1, 1], [1, 1, 1, 0, 0, 0, 0], [1, 0, 1, 1, 0, 1, 1], [0, 0, 1, 0, 1, 0, 0], [1, 1, 1, 1, 0, 1, 0], [1, 1, 0, 0, 0, 0, 1], [1, 0, 0, 0, 1, 0, 0], [0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 0], [1, 1, 1, 0, 0, 1, 1], [1, 0, 0, 1, 0, 1, 0], [1, 0, 0, 1, 0, 0, 1], [1, 1, 0, 0, 1, 0, 1], [1, 0, 1, 0, 0, 1, 1], [0, 1, 1, 1, 0, 1, 1], [1, 0, 1, 0, 1, 0, 1], [1, 1, 1, 0, 1, 0, 0], [0, 1, 0, 0, 0, 0, 1], [1, 0, 0, 0, 1, 0, 1], [1, 0, 0, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 1], [0, 1, 1, 1, 1, 1, 0], [0, 1, 1, 1, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0], [0, 0, 0, 1, 0, 0, 0], [0, 1, 1, 1, 0, 0, 1], [0, 0, 0, 0, 1, 0, 0], [0, 0, 1, 1, 0, 1, 1], [0, 1, 1, 0, 0, 0, 1], [1, 1, 0, 1, 0, 1, 0], [0, 1, 0, 0, 1, 0, 0], [1, 0, 1, 0, 0, 0, 1], [1, 0, 0, 0, 1, 0, 0], [0, 1, 0, 1, 0, 0, 1], [0, 0, 1, 1, 1, 0, 1], [0, 1, 1, 1, 0, 0, 1], [0, 0, 0, 0, 1, 0, 1], [1, 0, 0, 0, 1, 0, 0], [1, 0, 0, 1, 0, 1, 1], [1, 1, 0, 1, 0, 1, 0], [1, 1, 1, 1, 0, 0, 1], [1, 1, 0, 1, 0, 0, 1], [1, 1, 1, 1, 0, 0, 1], [0, 1, 0, 0, 1, 1, 1], [0, 0, 1, 1, 0, 1, 1], [0, 1, 1, 0, 0, 0, 1], [0, 0, 1, 0, 0, 0, 1], [1, 0, 1, 1, 0, 1, 1], [1, 1, 1, 0, 0, 1, 0], [0, 1, 1, 0, 1, 0, 0], [1, 1, 1, 0, 1, 0, 0], [0, 1, 0, 1, 1, 0, 1], [1, 1, 1, 0, 0, 1, 1], [0, 0, 0, 0, 1, 1, 0], [1, 0, 0, 1, 1, 0, 0], [0, 0, 0, 0, 1, 0, 1], [1, 0, 1, 0, 1, 0, 0], [0, 1, 0, 0, 1, 0, 1], [0, 0, 0, 0, 1, 1, 1], [1, 0, 0, 1, 1, 0, 1], [1, 0, 0, 0, 1, 0, 0], [0, 1, 1, 1, 1, 1, 0], [1, 1, 1, 1, 1, 0, 1], [0, 0, 0, 0, 1, 1, 1], [0, 1, 1, 1, 0, 1, 0], [1, 1, 0, 1, 0, 1, 0], [1, 1, 0, 1, 0, 0, 1], [0, 0, 0, 1, 0, 0, 1], [1, 1, 0, 0, 0, 0, 1], [1, 1, 1, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 1, 1, 0, 0], [0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0], [1, 0, 1, 1, 0, 0, 1], [1, 1, 0, 0, 0, 0, 0], [1, 0, 1, 1, 0, 1, 0], [1, 1, 0, 1, 0, 1, 1], [1, 1, 1, 1, 0, 0, 0], [0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0], [1, 0, 0, 0, 0, 0, 0], [1, 0, 0, 1, 1, 1, 1], [0, 0, 1, 0, 0, 0, 1], [1, 0, 1, 0, 1, 1, 0], [1, 0, 0, 0, 1, 1, 0], [1, 0, 0, 1, 0, 1, 1], [0, 1, 1, 1, 0, 1, 1], [1, 0, 0, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 1], [0, 0, 1, 1, 1, 1, 0], [1, 1, 1, 1, 0, 0, 0], [0, 1, 1, 1, 0, 0, 0], [0, 0, 1, 1, 1, 1, 0], [1, 1, 0, 0, 0, 1, 0], [0, 0, 0, 0, 0, 0, 0], [1, 1, 0, 0, 1, 1, 1], [0, 0, 1, 1, 1, 1, 1], [1, 1, 0, 0, 1, 0, 1], [1, 1, 0, 1, 1, 1, 0], [0, 0, 0, 0, 1, 1, 0], [1, 1, 0, 1, 1, 1, 0], [1, 1, 1, 0, 0, 0, 1], [0, 1, 0, 1, 0, 0, 1], [1, 0, 0, 0, 0, 0, 1], [0, 1, 1, 1, 1, 1, 1], [1, 1, 1, 0, 0, 1, 0], [1, 0, 0, 1, 0, 0, 1], [0, 1, 0, 1, 1, 0, 1], [0, 1, 1, 1, 0, 0, 1], [1, 0, 0, 1, 0, 1, 1], [0, 0, 1, 1, 1, 1, 0], [0, 0, 1, 0, 0, 1, 0], [1, 1, 1, 1, 0, 0, 1], [0, 0, 1, 1, 0, 1, 0], [0, 0, 1, 1, 0, 0, 1], [1, 0, 0, 0, 1, 1, 0], [0, 0, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 1, 0, 1, 1], [0, 1, 0, 1, 0, 0, 0], [0, 1, 1, 1, 0, 1, 0], [0, 0, 0, 1, 0, 0, 1], [1, 0, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 0, 0], [1, 1, 0, 1, 1, 0, 0], [1, 1, 1, 0, 0, 1, 1], [1, 0, 0, 0, 1, 0, 1], [1, 1, 0, 0, 0, 0, 0], [1, 1, 0, 0, 0, 0, 1], [1, 0, 0, 1, 1, 1, 0], [1, 0, 0, 1, 1, 1, 0], [0, 1, 1, 0, 0, 0, 1], [1, 0, 0, 1, 1, 0, 1], [0, 1, 1, 0, 0, 1, 0], [0, 1, 1, 0, 0, 1, 1], [1, 1, 1, 1, 0, 0, 1], [0, 0, 0, 1, 1, 0, 1], [0, 0, 1, 0, 1, 1, 0], [1, 1, 0, 0, 1, 1, 0], [0, 0, 1, 0, 1, 0, 1], [1, 0, 0, 0, 1, 0, 0], [1, 0, 1, 1, 1, 0, 0], [1, 0, 0, 1, 1, 0, 1], [1, 0, 1, 1, 1, 1, 1], [1, 1, 1, 1, 0, 0, 0], [0, 1, 1, 1, 0, 0, 1], [0, 1, 1, 1, 1, 1, 0], [1, 1, 1, 0, 0, 1, 0], [0, 1, 1, 0, 1, 0, 0], [1, 0, 0, 1, 1, 1, 0], [1, 1, 0, 0, 1, 0, 1], [0, 0, 0, 1, 1, 0, 0], [0, 0, 0, 0, 1, 1, 0], [1, 0, 0, 1, 1, 0, 1], [0, 1, 0, 1, 0, 1, 1], [1, 1, 1, 1, 0, 1, 0], [0, 1, 0, 0, 1, 1, 1], [0, 0, 0, 0, 1, 1, 1], [1, 1, 1, 0, 0, 0, 0], [1, 1, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 1, 1, 1, 0, 1], [0, 0, 0, 0, 1, 1, 0], [0, 0, 0, 1, 0, 0, 1], [1, 0, 0, 1, 0, 1, 1], [1, 0, 0, 0, 1, 1, 0], [1, 0, 1, 1, 1, 0, 0], [1, 0, 0, 1, 0, 1, 0], [1, 1, 1, 1, 1, 0, 1], [1, 1, 0, 0, 1, 0, 1], [1, 1, 0, 0, 0, 1, 0], [0, 1, 1, 1, 0, 0, 0], [1, 0, 1, 0, 1, 0, 0], [1, 0, 0, 1, 1, 1, 0], [0, 1, 1, 1, 1, 0, 1], [1, 1, 1, 1, 1, 0, 1], [1, 1, 1, 0, 0, 1, 0], [0, 0, 1, 1, 1, 0, 1], [1, 0, 1, 0, 0, 0, 0], [1, 0, 1, 0, 1, 1, 1], [0, 0, 1, 1, 0, 1, 0], [0, 1, 0, 1, 0, 1, 1], [0, 0, 1, 1, 1, 0, 1], [0, 1, 1, 0, 1, 0, 0], [1, 0, 0, 1, 1, 1, 1], [1, 1, 0, 0, 0, 0, 0], [1, 1, 1, 0, 0, 0, 0], [1, 0, 0, 1, 1, 1, 0]]
+**VARIABLES**
+ALIAS labels[250]=[1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1]
+**SEARCH**
+PRINT[[eta_00001],[eta_00002],[eta_00003],[eta_00004],[eta_00005],[eta_00006],[eta_00007],[eta_00008],[eta_00009],[eta_00010],[eta_00011],[eta_00012],[eta_00013],[eta_00014],[eta_00015],[eta_00016],[eta_00017],[eta_00018],[eta_00019],[eta_00020],[eta_00021],[eta_00022],[eta_00023],[eta_00024],[eta_00025],[eta_00026],[eta_00027],[eta_00028],[eta_00029],[eta_00030],[eta_00031],[eta_00032],[eta_00033],[eta_00034],[eta_00035],[eta_00036],[eta_00037],[eta_00038],[eta_00039],[eta_00040],[eta_00041],[eta_00042],[eta_00043],[eta_00044],[eta_00045],[eta_00046],[eta_00047],[eta_00048],[eta_00049],[eta_00050],[eta_00051],[eta_00052],[eta_00053],[eta_00054],[eta_00055],[eta_00056],[eta_00057],[eta_00058],[eta_00059],[eta_00060],[eta_00061],[eta_00062],[eta_00063],[eta_00064],[eta_00065],[eta_00066],[eta_00067],[eta_00068],[eta_00069],[eta_00070],[eta_00071],[eta_00072],[eta_00073],[eta_00074],[eta_00075],[eta_00076],[eta_00077],[eta_00078],[eta_00079],[eta_00080],[eta_00081],[eta_00082],[eta_00084],[eta_00085],[eta_00086],[eta_00087],[eta_00088],[eta_00089],[eta_00090],[eta_00091],[eta_00092],[eta_00093],[eta_00094],[eta_00095],[eta_00096],[eta_00097],[eta_00098],[eta_00099],[eta_00100],[eta_00101],[eta_00102],[eta_00103],[eta_00104],[eta_00105],[eta_00106],[eta_00107],[eta_00108],[eta_00109],[eta_00110],[eta_00111],[eta_00112],[eta_00113],[eta_00114],[eta_00115],[eta_00116],[eta_00117],[eta_00118],[eta_00119],[eta_00120],[eta_00121],[eta_00122],[eta_00123],[eta_00124],[eta_00125],[eta_00126],[eta_00127],[eta_00128],[eta_00129],[eta_00130],[eta_00131],[eta_00132],[eta_00133],[eta_00134],[eta_00135],[eta_00136],[eta_00137],[eta_00138],[eta_00139],[eta_00140],[eta_00141],[eta_00142],[eta_00143],[eta_00144],[eta_00145],[eta_00146],[eta_00147],[eta_00148],[eta_00149],[eta_00150],[eta_00151],[eta_00152],[eta_00153],[eta_00154],[eta_00155],[eta_00156],[eta_00157],[eta_00158],[eta_00159],[eta_00160],[eta_00161],[eta_00162],[eta_00163],[eta_00164],[eta_00165],[eta_00166],[eta_00167],[eta_00168],[eta_00169],[eta_00170],[eta_00171],[eta_00172],[eta_00173],[eta_00174],[eta_00175],[eta_00176],[eta_00177],[eta_00178],[eta_00179],[eta_00181],[eta_00182],[eta_00183],[eta_00184],[eta_00185],[eta_00186],[eta_00187],[eta_00188],[eta_00189],[eta_00190],[eta_00191],[eta_00192],[eta_00193],[eta_00194],[eta_00195],[eta_00196],[eta_00197],[eta_00198],[eta_00199],[eta_00200],[eta_00201],[eta_00202],[eta_00203],[eta_00204],[eta_00205],[eta_00206],[eta_00207],[eta_00208],[eta_00209],[eta_00210],[eta_00211],[eta_00212],[eta_00213],[eta_00214],[eta_00215],[eta_00216],[eta_00217],[eta_00218],[eta_00219],[eta_00220],[eta_00221],[eta_00222],[eta_00223],[eta_00224],[eta_00225],[eta_00226],[eta_00227],[eta_00228],[eta_00229],[eta_00230],[eta_00231],[eta_00232],[eta_00233],[eta_00234],[eta_00235],[eta_00236],[eta_00237],[eta_00238],[eta_00239],[eta_00240],[eta_00241],[eta_00242],[eta_00243],[eta_00244],[eta_00245],[eta_00246],[eta_00247],[eta_00248],[eta_00249],[eta_00250],[rules_00001_00001],[rules_00001_00002],[rules_00001_00003],[rules_00001_00004],[rules_00001_00005],[rules_00001_00006],[rules_00001_00007],[objVar],[objVar]]
+MINIMISING objVar
+**CONSTRAINTS**
+watched-or({w-literal(eta_00001,0),w-literal(rules_00001_00003,1)})
+watched-or({w-literal(eta_00002,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00007,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00012,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00015,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00018,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00020,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00021,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00022,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00026,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00029,0),w-literal(rules_00001_00003,1)})
+watched-or({w-literal(eta_00033,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00034,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00037,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00040,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00043,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00044,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00046,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00047,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00048,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00049,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00053,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00054,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00056,0),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00057,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00059,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00063,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00064,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00065,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00066,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00067,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00068,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00070,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00072,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00073,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00074,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00075,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00077,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00078,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00085,0),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00086,0),w-literal(rules_00001_00004,1)})
+watched-or({w-literal(eta_00088,0),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00089,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00092,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00093,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00096,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00097,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00098,0),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00102,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00103,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00104,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00106,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00108,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00110,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00111,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00112,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00118,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00119,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00120,0),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00121,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00122,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00127,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00128,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00131,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00135,0),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00137,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1)})
+watched-or({w-literal(eta_00141,0),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00144,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00145,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00146,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00147,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00148,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00149,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00152,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00153,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1)})
+watched-or({w-literal(eta_00156,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00158,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00160,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00161,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00162,0),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00166,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00167,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00169,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00170,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00171,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00173,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00174,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00175,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00182,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1)})
+watched-or({w-literal(eta_00188,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00189,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00190,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1)})
+watched-or({w-literal(eta_00195,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00197,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00199,0),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00200,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00202,0),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00205,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00207,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1)})
+watched-or({w-literal(eta_00208,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00209,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00212,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00213,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00215,0),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00216,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00218,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00221,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1)})
+watched-or({w-literal(eta_00228,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00229,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00231,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00232,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00233,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00241,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00003,1)})
+watched-or({w-literal(eta_00244,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00006,1),w-literal(rules_00001_00007,1)})
+watched-or({w-literal(eta_00246,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1),w-literal(rules_00001_00005,1)})
+watched-or({w-literal(eta_00248,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1)})
+watched-or({w-literal(eta_00249,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1)})
+watched-or({w-literal(eta_00250,0),w-literal(rules_00001_00001,1),w-literal(rules_00001_00004,1),w-literal(rules_00001_00005,1),w-literal(rules_00001_00006,1)})
+watched-or({w-literal(eta_00036,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00003,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00003,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00004,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00004,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00004,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00004,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00005,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00005,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00005,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00006,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00006,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00006,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00008,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00008,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00008,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00008,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00008,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00009,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00009,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00009,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00009,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00009,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00010,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00010,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00010,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00010,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00011,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00011,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00011,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00013,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00013,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00014,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00014,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00014,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00014,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00016,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00016,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00016,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00016,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00017,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00017,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00017,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00019,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00019,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00019,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00019,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00023,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00023,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00023,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00023,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00023,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00024,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00024,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00024,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00024,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00025,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00025,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00025,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00027,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00027,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00027,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00027,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00027,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00028,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00028,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00028,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00028,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00028,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00030,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00030,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00031,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00031,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00031,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00031,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00031,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00032,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00032,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00032,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00035,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00035,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00035,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00035,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00038,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00038,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00039,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00039,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00039,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00041,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00041,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00041,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00041,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00041,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00041,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00042,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00042,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00045,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00045,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00045,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00045,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00045,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00045,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00045,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00050,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00050,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00050,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00051,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00051,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00051,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00052,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00052,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00055,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00055,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00055,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00058,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00058,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00058,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00058,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00058,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00060,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00060,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00060,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00060,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00060,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00060,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00061,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00061,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00061,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00062,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00062,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00062,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00062,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00062,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00069,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00069,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00069,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00069,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00069,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00071,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00071,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00071,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00076,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00076,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00076,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00076,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00079,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00079,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00079,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00079,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00079,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00080,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00080,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00080,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00080,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00081,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00081,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00081,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00081,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00081,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00082,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00082,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00082,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00082,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00082,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00084,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00084,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00084,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00084,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00084,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00084,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00087,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00087,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00087,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00087,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00090,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00090,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00090,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00091,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00091,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00091,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00091,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00094,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00094,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00095,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00095,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00095,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00099,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00099,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00100,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00100,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00100,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00100,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00101,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00101,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00101,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00101,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00105,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00105,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00105,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00105,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00107,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00107,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00107,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00109,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00109,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00109,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00109,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00109,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00113,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00113,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00113,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00113,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00114,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00114,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00114,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00114,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00114,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00115,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00115,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00116,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00116,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00116,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00117,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00117,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00123,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00123,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00123,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00123,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00123,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00124,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00124,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00124,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00124,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00124,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00124,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00125,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00125,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00125,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00132,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00134,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00143,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00126,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00126,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00126,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00126,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00129,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00129,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00130,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00130,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00130,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00133,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00133,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00133,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00136,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00136,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00136,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00136,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00138,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00138,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00138,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00138,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00139,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00139,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00139,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00139,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00139,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00140,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00140,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00140,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00140,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00142,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00142,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00150,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00150,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00150,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00150,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00150,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00151,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00151,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00151,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00151,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00154,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00154,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00154,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00155,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00155,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00155,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00155,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00159,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00159,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00159,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00159,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00159,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00163,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00163,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00163,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00163,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00163,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00164,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00164,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00164,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00164,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00165,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00165,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00165,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00168,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00168,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00168,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00168,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00172,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00172,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00172,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00172,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00176,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00176,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00176,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00177,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00177,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00177,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00178,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00178,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00178,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00179,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00179,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00179,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00179,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00179,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00181,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00181,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00181,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00181,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00183,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00183,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00183,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00183,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00184,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00184,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00185,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00185,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00185,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00185,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00186,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00186,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00186,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00186,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00187,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00187,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00187,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00187,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00191,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00191,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00191,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00192,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00192,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00192,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00192,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00193,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00193,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00193,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00193,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00194,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00194,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00194,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00196,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00196,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00196,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00198,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00198,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00198,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00198,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00198,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00201,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00201,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00201,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00201,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00203,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00203,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00204,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00204,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00204,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00204,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00206,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00206,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00206,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00206,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00206,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00206,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00210,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00210,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00210,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00210,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00211,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00211,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00211,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00214,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00214,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00217,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00217,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00217,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00217,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00219,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00219,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00219,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00219,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00220,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00220,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00220,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00222,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00222,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00222,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00222,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00223,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00223,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00223,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00224,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00224,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00224,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00224,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00225,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00225,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00226,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00226,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00227,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00227,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00227,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00227,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00230,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00230,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00230,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00234,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00234,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00234,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00235,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00235,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00235,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00236,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00236,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00236,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00236,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00237,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00237,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00237,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00237,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00237,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00238,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00238,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00238,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00238,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00238,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00238,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00239,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00239,0),w-literal(rules_00001_00002,0)})
+watched-or({w-literal(eta_00239,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00239,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00240,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00240,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00240,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00240,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00242,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00242,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00242,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00242,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00242,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00243,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00243,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00243,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00245,0),w-literal(rules_00001_00003,0)})
+watched-or({w-literal(eta_00245,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00245,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00245,0),w-literal(rules_00001_00007,0)})
+watched-or({w-literal(eta_00247,0),w-literal(rules_00001_00001,0)})
+watched-or({w-literal(eta_00247,0),w-literal(rules_00001_00004,0)})
+watched-or({w-literal(eta_00247,0),w-literal(rules_00001_00005,0)})
+watched-or({w-literal(eta_00247,0),w-literal(rules_00001_00006,0)})
+watched-or({w-literal(eta_00247,0),w-literal(rules_00001_00007,0)})
+weightedsumleq([30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,1,1,1,1,1,1,1,1],[!eta_00001,!eta_00002,!eta_00003,!eta_00004,!eta_00005,!eta_00006,!eta_00007,!eta_00008,!eta_00009,!eta_00010,!eta_00011,!eta_00012,!eta_00013,!eta_00014,!eta_00015,!eta_00016,!eta_00017,!eta_00018,!eta_00019,!eta_00020,!eta_00021,!eta_00022,!eta_00023,!eta_00024,!eta_00025,!eta_00026,!eta_00027,!eta_00028,!eta_00029,!eta_00030,!eta_00031,!eta_00032,!eta_00033,!eta_00034,!eta_00035,!eta_00036,!eta_00037,!eta_00038,!eta_00039,!eta_00040,!eta_00041,!eta_00042,!eta_00043,!eta_00044,!eta_00045,!eta_00046,!eta_00047,!eta_00048,!eta_00049,!eta_00050,!eta_00051,!eta_00052,!eta_00053,!eta_00054,!eta_00055,!eta_00056,!eta_00057,!eta_00058,!eta_00059,!eta_00060,!eta_00061,!eta_00062,!eta_00063,!eta_00064,!eta_00065,!eta_00066,!eta_00067,!eta_00068,!eta_00069,!eta_00070,!eta_00071,!eta_00072,!eta_00073,!eta_00074,!eta_00075,!eta_00076,!eta_00077,!eta_00078,!eta_00079,!eta_00080,!eta_00081,!eta_00082,!eta_00084,!eta_00085,!eta_00086,!eta_00087,!eta_00088,!eta_00089,!eta_00090,!eta_00091,!eta_00092,!eta_00093,!eta_00094,!eta_00095,!eta_00096,!eta_00097,!eta_00098,!eta_00099,!eta_00100,!eta_00101,!eta_00102,!eta_00103,!eta_00104,!eta_00105,!eta_00106,!eta_00107,!eta_00108,!eta_00109,!eta_00110,!eta_00111,!eta_00112,!eta_00113,!eta_00114,!eta_00115,!eta_00116,!eta_00117,!eta_00118,!eta_00119,!eta_00120,!eta_00121,!eta_00122,!eta_00123,!eta_00124,!eta_00125,!eta_00126,!eta_00127,!eta_00128,!eta_00129,!eta_00130,!eta_00131,!eta_00132,!eta_00133,!eta_00134,!eta_00135,!eta_00136,!eta_00137,!eta_00138,!eta_00139,!eta_00140,!eta_00141,!eta_00142,!eta_00143,!eta_00144,!eta_00145,!eta_00146,!eta_00147,!eta_00148,!eta_00149,!eta_00150,!eta_00151,!eta_00152,!eta_00153,!eta_00154,!eta_00155,!eta_00156,!eta_00157,!eta_00158,!eta_00159,!eta_00160,!eta_00161,!eta_00162,!eta_00163,!eta_00164,!eta_00165,!eta_00166,!eta_00167,!eta_00168,!eta_00169,!eta_00170,!eta_00171,!eta_00172,!eta_00173,!eta_00174,!eta_00175,!eta_00176,!eta_00177,!eta_00178,!eta_00179,!eta_00181,!eta_00182,!eta_00183,!eta_00184,!eta_00185,!eta_00186,!eta_00187,!eta_00188,!eta_00189,!eta_00190,!eta_00191,!eta_00192,!eta_00193,!eta_00194,!eta_00195,!eta_00196,!eta_00197,!eta_00198,!eta_00199,!eta_00200,!eta_00201,!eta_00202,!eta_00203,!eta_00204,!eta_00205,!eta_00206,!eta_00207,!eta_00208,!eta_00209,!eta_00210,!eta_00211,!eta_00212,!eta_00213,!eta_00214,!eta_00215,!eta_00216,!eta_00217,!eta_00218,!eta_00219,!eta_00220,!eta_00221,!eta_00222,!eta_00223,!eta_00224,!eta_00225,!eta_00226,!eta_00227,!eta_00228,!eta_00229,!eta_00230,!eta_00231,!eta_00232,!eta_00233,!eta_00234,!eta_00235,!eta_00236,!eta_00237,!eta_00238,!eta_00239,!eta_00240,!eta_00241,!eta_00242,!eta_00243,!eta_00244,!eta_00245,!eta_00246,!eta_00247,!eta_00248,!eta_00249,!eta_00250,rules_00001_00001,rules_00001_00002,rules_00001_00003,rules_00001_00004,rules_00001_00005,rules_00001_00006,rules_00001_00007,60],objVar)
+weightedsumgeq([30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,1,1,1,1,1,1,1,1],[!eta_00001,!eta_00002,!eta_00003,!eta_00004,!eta_00005,!eta_00006,!eta_00007,!eta_00008,!eta_00009,!eta_00010,!eta_00011,!eta_00012,!eta_00013,!eta_00014,!eta_00015,!eta_00016,!eta_00017,!eta_00018,!eta_00019,!eta_00020,!eta_00021,!eta_00022,!eta_00023,!eta_00024,!eta_00025,!eta_00026,!eta_00027,!eta_00028,!eta_00029,!eta_00030,!eta_00031,!eta_00032,!eta_00033,!eta_00034,!eta_00035,!eta_00036,!eta_00037,!eta_00038,!eta_00039,!eta_00040,!eta_00041,!eta_00042,!eta_00043,!eta_00044,!eta_00045,!eta_00046,!eta_00047,!eta_00048,!eta_00049,!eta_00050,!eta_00051,!eta_00052,!eta_00053,!eta_00054,!eta_00055,!eta_00056,!eta_00057,!eta_00058,!eta_00059,!eta_00060,!eta_00061,!eta_00062,!eta_00063,!eta_00064,!eta_00065,!eta_00066,!eta_00067,!eta_00068,!eta_00069,!eta_00070,!eta_00071,!eta_00072,!eta_00073,!eta_00074,!eta_00075,!eta_00076,!eta_00077,!eta_00078,!eta_00079,!eta_00080,!eta_00081,!eta_00082,!eta_00084,!eta_00085,!eta_00086,!eta_00087,!eta_00088,!eta_00089,!eta_00090,!eta_00091,!eta_00092,!eta_00093,!eta_00094,!eta_00095,!eta_00096,!eta_00097,!eta_00098,!eta_00099,!eta_00100,!eta_00101,!eta_00102,!eta_00103,!eta_00104,!eta_00105,!eta_00106,!eta_00107,!eta_00108,!eta_00109,!eta_00110,!eta_00111,!eta_00112,!eta_00113,!eta_00114,!eta_00115,!eta_00116,!eta_00117,!eta_00118,!eta_00119,!eta_00120,!eta_00121,!eta_00122,!eta_00123,!eta_00124,!eta_00125,!eta_00126,!eta_00127,!eta_00128,!eta_00129,!eta_00130,!eta_00131,!eta_00132,!eta_00133,!eta_00134,!eta_00135,!eta_00136,!eta_00137,!eta_00138,!eta_00139,!eta_00140,!eta_00141,!eta_00142,!eta_00143,!eta_00144,!eta_00145,!eta_00146,!eta_00147,!eta_00148,!eta_00149,!eta_00150,!eta_00151,!eta_00152,!eta_00153,!eta_00154,!eta_00155,!eta_00156,!eta_00157,!eta_00158,!eta_00159,!eta_00160,!eta_00161,!eta_00162,!eta_00163,!eta_00164,!eta_00165,!eta_00166,!eta_00167,!eta_00168,!eta_00169,!eta_00170,!eta_00171,!eta_00172,!eta_00173,!eta_00174,!eta_00175,!eta_00176,!eta_00177,!eta_00178,!eta_00179,!eta_00181,!eta_00182,!eta_00183,!eta_00184,!eta_00185,!eta_00186,!eta_00187,!eta_00188,!eta_00189,!eta_00190,!eta_00191,!eta_00192,!eta_00193,!eta_00194,!eta_00195,!eta_00196,!eta_00197,!eta_00198,!eta_00199,!eta_00200,!eta_00201,!eta_00202,!eta_00203,!eta_00204,!eta_00205,!eta_00206,!eta_00207,!eta_00208,!eta_00209,!eta_00210,!eta_00211,!eta_00212,!eta_00213,!eta_00214,!eta_00215,!eta_00216,!eta_00217,!eta_00218,!eta_00219,!eta_00220,!eta_00221,!eta_00222,!eta_00223,!eta_00224,!eta_00225,!eta_00226,!eta_00227,!eta_00228,!eta_00229,!eta_00230,!eta_00231,!eta_00232,!eta_00233,!eta_00234,!eta_00235,!eta_00236,!eta_00237,!eta_00238,!eta_00239,!eta_00240,!eta_00241,!eta_00242,!eta_00243,!eta_00244,!eta_00245,!eta_00246,!eta_00247,!eta_00248,!eta_00249,!eta_00250,rules_00001_00001,rules_00001_00002,rules_00001_00003,rules_00001_00004,rules_00001_00005,rules_00001_00006,rules_00001_00007,60],objVar)
+**EOF**

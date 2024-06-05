@@ -1,0 +1,9 @@
+language ESSENCE' 1.0
+letting k = 5
+letting lambda = 30
+letting samples =
+[
+[1,0,1],
+[0,1,1]
+]
+letting labels = [0,1]

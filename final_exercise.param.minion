@@ -1,0 +1,48 @@
+MINION 3
+# CSETopLevel_number = 0
+# CSETopLevel_eliminated_expressions = 0
+# CSETopLevel_total_size = 0
+# CSE_active_number = 0
+# CSE_active_eliminated_expressions = 0
+# CSE_active_total_size = 0
+**VARIABLES**
+BOOL eta_00001 #
+BOOL eta_00002 #
+BOOL rules_00001_00001 #
+BOOL rules_00001_00002 #
+BOOL rules_00001_00003 #
+BOOL rules_00002_00001 #
+BOOL rules_00002_00002 #
+BOOL rules_00002_00003 #
+BOOL rules_00003_00001 #
+BOOL rules_00003_00002 #
+BOOL rules_00003_00003 #
+BOOL rules_00004_00001 #
+BOOL rules_00004_00002 #
+BOOL rules_00004_00003 #
+BOOL rules_00005_00001 #
+BOOL rules_00005_00002 #
+BOOL rules_00005_00003 #
+DISCRETE objVar #
+{0..66}
+**TUPLELIST**
+samples 2 3
+1 0 1 
+0 1 1 
+**VARIABLES**
+ALIAS samples[2,3]=[[1, 0, 1], [0, 1, 1]]
+**VARIABLES**
+ALIAS labels[2]=[0, 1]
+**SEARCH**
+PRINT[[eta_00001],[eta_00002],[rules_00001_00001],[rules_00001_00002],[rules_00001_00003],[rules_00002_00001],[rules_00002_00002],[rules_00002_00003],[rules_00003_00001],[rules_00003_00002],[rules_00003_00003],[rules_00004_00001],[rules_00004_00002],[rules_00004_00003],[rules_00005_00001],[rules_00005_00002],[rules_00005_00003],[objVar],[objVar]]
+MINIMISING objVar
+**CONSTRAINTS**
+watched-or({w-literal(eta_00001,0),watched-and({w-literal(rules_00005_00001,0),w-literal(rules_00005_00003,0)}),watched-and({w-literal(rules_00002_00001,0),w-literal(rules_00002_00003,0)}),watched-and({w-literal(rules_00004_00001,0),w-literal(rules_00004_00003,0)}),watched-and({w-literal(rules_00001_00001,0),w-literal(rules_00001_00003,0)}),watched-and({w-literal(rules_00003_00001,0),w-literal(rules_00003_00003,0)})})
+watched-or({w-literal(eta_00002,0),w-literal(rules_00001_00002,1),w-literal(rules_00001_00003,1)})
+watched-or({w-literal(eta_00002,0),w-literal(rules_00002_00002,1),w-literal(rules_00002_00003,1)})
+watched-or({w-literal(eta_00002,0),w-literal(rules_00003_00002,1),w-literal(rules_00003_00003,1)})
+watched-or({w-literal(eta_00002,0),w-literal(rules_00004_00002,1),w-literal(rules_00004_00003,1)})
+watched-or({w-literal(eta_00002,0),w-literal(rules_00005_00002,1),w-literal(rules_00005_00003,1)})
+weightedsumleq([30,30,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],[!eta_00001,!eta_00002,rules_00005_00001,rules_00005_00002,rules_00005_00003,rules_00001_00001,rules_00001_00002,rules_00001_00003,rules_00002_00001,rules_00002_00002,rules_00002_00003,rules_00003_00001,rules_00003_00002,rules_00003_00003,rules_00004_00001,rules_00004_00002,rules_00004_00003],objVar)
+weightedsumgeq([30,30,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],[!eta_00001,!eta_00002,rules_00005_00001,rules_00005_00002,rules_00005_00003,rules_00001_00001,rules_00001_00002,rules_00001_00003,rules_00002_00001,rules_00002_00002,rules_00002_00003,rules_00003_00001,rules_00003_00002,rules_00003_00003,rules_00004_00001,rules_00004_00002,rules_00004_00003],objVar)
+**EOF**

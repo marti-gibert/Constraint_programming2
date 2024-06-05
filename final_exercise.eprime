@@ -1,0 +1,44 @@
+language ESSENCE' 1.0
+$ Number of rules
+given k : int(1..)
+$ Penalty for discounting sample
+given lambda : int(1..)
+$ The samples
+given samples : matrix indexed by [int(1..noSamples), int(1..noFeatures)] of int(0..1)
+$ The labels
+given labels : matrix indexed by [int(1..noSamples)] of int(0..1)
+$ This are the eta and the rules the model is going to generate while minimizing the cost function.
+find eta : matrix indexed by [int(1..noSamples)] of bool
+find rules : matrix indexed by [int(1..k), int(1..noFeatures)] of bool
+$ binding the objective function to a variable so it will appear in the output:
+find objVar : int(0..noSamples*noFeatures+noSamples*lambda)
+minimising objVar
+
+$minimising
+such that
+
+objVar = sum (flatten(rules)) + sum sample : int(1..noSamples) . lambda * !eta[sample],
+$ Samples labelled 1
+forAll sample : int(1..noSamples) .
+    eta[sample] ->
+    (
+    (labels[sample] = 1) ->
+    (
+
+        forAll rule : int(1..k) .
+            exists feature : int(1..noFeatures) .
+                (samples[sample, feature] = 1) /\ rules[rule, feature]
+    )
+),
+
+    $ Constraints for samples labeled negatively (label = 0)
+forAll sample : int(1..noSamples) .
+    (labels[sample] = 0) ->
+    (
+        eta[sample] ->
+        (
+            exists rule : int(1..k) .
+                forAll feature : int(1..noFeatures) .
+                    (samples[sample, feature] = 0) \/ (!rules[rule, feature])
+        )
+    )

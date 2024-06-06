@@ -147,16 +147,17 @@ letting rules be [[false, true, false]]
 We can see that by just looking at the second feature we have been able to correctly identify each sample to its label.
 
 
-2. include symmetry breaking constraints that accounts with the fact that the order of the rules is irrelevant.
+# 2. include symmetry breaking constraints that accounts with the fact that the order of the rules is irrelevant.
 
-The symmetry breaking constraints help the solver avoid redundant solutions by enforcing a specific order or structure on the rules. In this case, we have to develope a constraint that ensures that the rules are ordered based on their feature activations. By comparing the sum of feature activations for pairs of rules, we establish an order that breaks symmetry.
+The way the model is build, it is spending lots of resources in calculating the same result multiple times. This is because our result is a set of k rules, but it is represented as a matrix. If we do a permutation of the rows of our matrix, the set of rules will be the same, but the matrix will not, and for the model will be considered a different result. So we need to enforce a specific order or structure on the rules, to achieve that the result matrix only is calculated once.
 
+We have to develope a constraint that ensures that the rules are ordered based on their feature activations. 
 
 ```
 forAll r1 : int(1..k-1) , r2 : int(r1+1..k) .
     sum f1 : int(1..noFeatures) . toInt(rules[r1, f1]) >= sum f2 : int(1..noFeatures) . toInt(rules[r2, f2])
 ```
-
+If we add this constraint, we are forcing the order of the rules by comparing the sum of feature activations for pairs of rules. The program will sum the number of features of every rule, and will sort them using this sum, in decreasing order, breaking this way the symmetry between the rules matrix.
 
 
 TO DO EXPLAIN THIS PART(WORKS CORRECTLY BUT EXPLAIN A LITTLE BIT)

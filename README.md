@@ -147,7 +147,7 @@ letting rules be [[false, true, false]]
 We can see that by just looking at the second feature we have been able to correctly identify each sample to its label.
 
 
-# 2. include symmetry breaking constraints that accounts with the fact that the order of the rules is irrelevant.
+## 2. include symmetry breaking constraints that accounts with the fact that the order of the rules is irrelevant.
 
 The way the model is build, it is spending lots of resources in calculating the same result multiple times. This is because our result is a set of k rules, but it is represented as a matrix. If we do a permutation of the rows of our matrix, the set of rules will be the same, but the matrix will not, and for the model will be considered a different result. So we need to enforce a specific order or structure on the rules, to achieve that the result matrix only is calculated once.
 

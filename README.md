@@ -154,8 +154,9 @@ The way the model is build, it is spending lots of resources in calculating the 
 We have to develope a constraint that ensures that the rules are ordered based on their feature activations. 
 
 ```
-forAll r1 : int(1..k-1) , r2 : int(r1+1..k) .
-    sum f1 : int(1..noFeatures) . toInt(rules[r1, f1]) >= sum f2 : int(1..noFeatures) . toInt(rules[r2, f2])
+forAll r1 : int(1..k-1) .
+    forAll r2 : int(r1+1..k) .
+        sum([toInt(rules[r1,f]) | f:int(1..noFeatures)]) >= sum([toInt(rules[r2,f]) | f:int(1..noFeatures)])
 ```
 If we add this constraint, we are forcing the order of the rules by comparing the sum of feature activations for pairs of rules. The program will sum the number of features of every rule, and will sort them using this sum, in decreasing order, breaking this way the symmetry between the rules matrix.
 
